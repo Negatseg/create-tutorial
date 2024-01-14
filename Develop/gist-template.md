@@ -7,7 +7,7 @@ In this tutorial, we will explore the fundamental components of regular expressi
 
 ## Table of Contents
 
-- [Regex Components](#regex components)
+- [RegexComponents](#regex components)
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
 - [OR Operator](#or-operator)
@@ -22,7 +22,7 @@ In this tutorial, we will explore the fundamental components of regular expressi
 - [Conclusion](#conclusion)
 - [Author](#author)
 
-### Regex Components
+### RegexComponents
 My Regex includes all the lists in the table of contents and the details is mentioned as below.
 
 ### Anchors
